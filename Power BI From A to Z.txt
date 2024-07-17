@@ -1,0 +1,33 @@
+Power BI (From A to Z 5 Hours Course Part-1) | شرح كامل لبرنامج باور بي أي في 5 ساعات
+--------------------------------------------------------------------------
+Write Notes:-
+Power BI Answer Questions To StockHolders.
+power bi community.
+https://www.microsoft.com/en-za/power-platform/products/power-bi
+Power BI Support - Microsoft
+----------------------------
+microsoft power bi number of users.
+Microsoft Power BI is the industry-leading business intelligence.
+-----------------------------
+Power BI Desktop>>Power BI Service on Web.
+-----------------------------
+Power BI Desktop.
+Power BI Service.
+Power BI Mobile.
+Power BI Report Server.
+-----------------------
+Ask your self different business questions and explore the data.
+------------------------
+1.Create a Power BI Report.
+2.Get data.
+3.Transform in The Power Query Editor.
+4.Create Relationships in The Model Segment.
+5.We can see all Rows & Columns in the data segment.
+6.create Visuals in report segment.
+-----------------------------------
+Get Data.From Any data Source As Web.
+>>IMDb Top 250 Movies
+>>From Web.
+-----------------------------------
+https://www.imdb.com/chart/top/
+-----------------------------------
